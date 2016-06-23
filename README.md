@@ -1,6 +1,6 @@
 # ELIMINAR UN ARCHIVO.  
 
-``` sudo rm -rf NOMARXIU ```  
+``` sudo rm -rf NomArxiu ```  
 
 # EDITAR UN ARCHIVO.  
 
